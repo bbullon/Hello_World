@@ -1,7 +1,9 @@
+This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.
+
 ## Table of contents
 
-- [PROJECT TITLE] #Hello_World
-- [DESCRIPTION] #Getting familiar with GitHub
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
@@ -9,11 +11,11 @@
 
 ## Project Title
 
-*Hello World*
+*Hello World Sample* 
 
 ## Description
 
-Getting practice using GitHub.
+Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
 ## How to Run Program 
 
