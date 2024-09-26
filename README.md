@@ -2,7 +2,7 @@ This is my sample GitHub Project
 
 ## Table of contents
 
-- [PROJECT TITLE](#Hello World)
+- [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
